@@ -8,18 +8,16 @@ Player features:
 -> Shoot bullets, click anywhere
 
 Enemy features:
--> Three enemy types:  
--> Normal
--> Boss
--> Superboss (has my face on it)
+Three enemy types:  
+- Normal
+- Boss
+- Superboss (has my face on it)
 
 Sandbox tools:
--> Player x, y relocation
-    
--> Adjustable bullet properties:
--> Bullet speed - random x, y changes to initial velocity
--> Bullet spread variance - scale of x, y variance for each builet
--> Bullet count - how many bullets are shot per click
--> Spawn enemy button
--> Remove all bullets on screen
--> Remove all enemies on screen
+- Player x, y relocation
+- Adjust bullet speed - random x, y changes to initial velocity
+- Adjust bullet spread variance - scale of x, y variance for each builet
+- Adjust bullet shoot count - how many bullets are shot per click
+- Spawn enemy button
+- Remove all bullets on screen
+- Remove all enemies on screen
